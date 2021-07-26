@@ -69,3 +69,15 @@ a:link {
 .mobile-width-100 {
     width: 100%;
 }
+
+.w3em {
+    width: 3em;
+}
+
+.w3_5em {
+    width: 3.5em;
+}
+
+.w4em {
+    width: 4em;
+}
